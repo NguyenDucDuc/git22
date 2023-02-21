@@ -1,6 +1,6 @@
 
-const a = 111
-const b = 222
+const a = 989
+const b = 123
 if(a+b===3333){
     console.log("OK")
 }
